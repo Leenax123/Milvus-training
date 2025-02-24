@@ -1,1 +1,1 @@
-from langchain_huggingface import HuggingFaceEmbeddings
+langchain_huggingface==0.1.2
